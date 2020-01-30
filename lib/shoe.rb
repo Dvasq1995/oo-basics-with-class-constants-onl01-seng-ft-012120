@@ -20,6 +20,5 @@ class Shoe
     BRANDS << brand
     BRANDS.uniq!
   end
-  end
 
 end
